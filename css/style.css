@@ -1485,7 +1485,7 @@ line-height: 22px; /* 157.143% */
 white-space: pre;
 }
 
-@media screen and (max-width:390px){
+@media screen and (min-width: 320px) and (max-width: 768px){
     body{
         width: 390px;
         height: auto;
